@@ -1,0 +1,5 @@
+A:\CATIORO PULGUENTO\GAMES\Pirating Neentendo Simulator\WinFormsApp1.exe
+A:\CATIORO PULGUENTO\GAMES\Pirating Neentendo Simulator\WinFormsApp1.dll
+A:\CATIORO PULGUENTO\GAMES\Pirating Neentendo Simulator\WinFormsApp1.deps.json
+A:\CATIORO PULGUENTO\GAMES\Pirating Neentendo Simulator\WinFormsApp1.runtimeconfig.json
+A:\CATIORO PULGUENTO\GAMES\Pirating Neentendo Simulator\WinFormsApp1.pdb

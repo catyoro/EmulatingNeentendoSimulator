@@ -1,0 +1,7 @@
+D:\CATIORO PULGUENTO\GAMES\Pirating Neentendo Simulator\BUILD\v01\WinFormsApp1.pdb
+D:\CATIORO PULGUENTO\GAMES\Pirating Neentendo Simulator\BUILD\v01\D3DCompiler_47_cor3.dll
+D:\CATIORO PULGUENTO\GAMES\Pirating Neentendo Simulator\BUILD\v01\PenImc_cor3.dll
+D:\CATIORO PULGUENTO\GAMES\Pirating Neentendo Simulator\BUILD\v01\PresentationNative_cor3.dll
+D:\CATIORO PULGUENTO\GAMES\Pirating Neentendo Simulator\BUILD\v01\vcruntime140_cor3.dll
+D:\CATIORO PULGUENTO\GAMES\Pirating Neentendo Simulator\BUILD\v01\wpfgfx_cor3.dll
+D:\CATIORO PULGUENTO\GAMES\Pirating Neentendo Simulator\BUILD\v01\WinFormsApp1.exe

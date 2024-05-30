@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LIjvv03hdqAX1b9/vWTa0MT/fAgiTZtakWVRMaE6Qwyq37qmv41pUVyhU/SuBI0nnuTRRnTc6cTQbCyjXd1Okw==",
+  "success": true,
+  "projectFilePath": "D:\\CATIORO PULGUENTO\\GAMES\\Pirating Neentendo Simulator\\WinFormsApp1\\WinFormsApp1\\EmulandoNeentendoSimulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
